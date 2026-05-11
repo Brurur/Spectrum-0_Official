@@ -3,7 +3,7 @@
 <hr>
 
 # 🌱 Spectrum: 0 by Spectral Pack
-Spectrum: 0 is an educational puzzle-platformer developed for PC using Unity, designed to advocate for climate action in support of SDG 13. Set in a post-apocalyptic world devastated by human neglect, the game follows a robot named Sp3ctr4 who journeys through five distinct environments, ranging from ruined forests to polluting factories, to solve puzzles and plant vegetation, transforming the "grey" world back into a colored, living ecosystem. The narrative emphasizes environmental stewardship, culminating in Sp3ctr4's self-sacrifice to fully restore the Earth's ecological balance and save the remaining life on the planet.
+Spectrum: 0 is an educational puzzle-platformer developed for PC using Unity, designed to advocate for climate action and life on land in support of SDG 13 and SDG 15. Set in a post-apocalyptic world devastated by human neglect, the game follows a robot named Sp3ctr4 who journeys through five distinct environments, ranging from ruined forests to polluting factories, to solve puzzles and plant vegetation, transforming the "grey" world back into a colored, living ecosystem. The narrative emphasizes environmental stewardship, culminating in Sp3ctr4's self-sacrifice to fully restore the Earth's ecological balance and save the remaining life on the planet.
 
 ## 🎮 Game Features
 - **Genre:** Educational Puzzle-Platformer
