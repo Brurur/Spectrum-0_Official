@@ -13,6 +13,27 @@ Spectrum: 0 is an educational puzzle-platformer developed for PC using Unity, de
 - **Controls:** Walking, Jumping, and Interacting
 - **UI Elements:** Energy Bar System
 
+## 🚀 Quick Start
+
+### The pre-built binaries
+Navigate to [Releases(LINK RELEASES TARO DI SINI YUSUF)] page to download the pre-built binaries.
+
+### Prerequisites
+
+- Unity v6000.0.57f1 (or higher)
+
+### Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Brurur/Spectrum-0.git
+   cd Spectrum-0
+   ```
+
+2. Open the project in Unity Hub
+3. Open `Main Menu` scene under `Assets/Scenes`
+4. Hit the start button to preview the game in development mode
+
 ## 🎯 How to Play
 
 1. **Start the Game** - Click the play button on the main menu
