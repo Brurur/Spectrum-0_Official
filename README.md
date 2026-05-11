@@ -16,7 +16,7 @@ Spectrum: 0 is an educational puzzle-platformer developed for PC using Unity, de
 ## 🚀 Quick Start
 
 ### The pre-built binaries
-Navigate to [Releases(LINK RELEASES TARO DI SINI YUSUF)] page to download the pre-built binaries.
+Navigate to [Releases(https://github.com/Brurur/Spectrum-0_Official/releases/tag/Release)] page to download the pre-built binaries.
 
 ### Prerequisites
 
