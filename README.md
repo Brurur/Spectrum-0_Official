@@ -26,7 +26,7 @@ Navigate to [Releases(LINK RELEASES TARO DI SINI YUSUF)] page to download the pr
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Brurur/Spectrum-0.git
+   git clone https://github.com/Brurur/Spectrum-0_Official.git
    cd Spectrum-0
    ```
 
